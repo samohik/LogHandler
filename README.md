@@ -1,0 +1,2 @@
+# LogHandler
+Deals with logs
